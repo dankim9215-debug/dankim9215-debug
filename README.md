@@ -15,7 +15,15 @@
 - **Tools:**
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
 
+## 📚 What I'm Studying
 
+### 🤖 Generative AI & LLM
+<img src="https://img.shields.io/badge/NVIDIA-Generative_AI_LLM_Associate-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+
+### 📊 Data Engineering
+<img src="https://img.shields.io/badge/Google-Professional_Data_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+
+---
 
 ## 📫 Contact Me
 - GitHub: [@dankim9215-debug](https://github.com/dankim9215-debug)
